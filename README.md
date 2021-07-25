@@ -5,9 +5,11 @@
 Trabalho deve ser entregue dia 26/07   
 Pode ser em grupo ou individual   
 Continuação do projeto 1. Caso queira usar um código de outra pessoa da sala, pode.   
+
 Entregar 2 arquivos:   
-notebook.ipynb (chamando o módulo .py) -> pode ser em .py   
-arquivo.py (módulo criado)   
+- notebook.ipynb (chamando o módulo .py) -> pode ser em .py   
+- arquivo.py (módulo criado)   
+
 Entregar via github (passar o link) ou enviar os arquivos via chat do class   
 O arquivo.py deve conter uma classe e vários métodos (funções criadas no mini projeto 1)   
 O notebook.ipynb é o programa principal onde deve-ser chamar o módulo via import e apresentar a solução do projeto 1
